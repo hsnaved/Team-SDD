@@ -1,0 +1,11 @@
+Hello to ps 2.0
+CyberSecurity Session
+Server:		192.168.224.2
+Address:	192.168.224.2#53
+
+Non-authoritative answer:
+Name:	google.com
+Address: 142.250.199.174
+Name:	google.com
+Address: 2404:6800:4009:832::200e
+
