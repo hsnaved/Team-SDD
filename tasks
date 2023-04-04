@@ -3,3 +3,5 @@
 └─$ echo "Hello to ps 2.0" > file1.txt   
 ──(kali㉿kali)-[~/Downloads]
 └─$ echo "CyberSecurity Session" >> file1.txt
+┌──(kali㉿kali)-[~/Downloads]
+└─$ nslookup google.com >> file1.txt 
